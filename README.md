@@ -23,12 +23,9 @@ This project implements Artificial Neural Networks (ANNs) to classify images fro
 ## Results
 - **MNIST Fashion**:
   - Best Accuracy: **88%**
-  - Confusion Matrix:
-    ![MNIST Confusion Matrix](results/mnist_confusion_matrix.png)
+  - 
 - **CIFAR-10**:
   - Best Accuracy: **47%**
-  - Confusion Matrix:
-    ![CIFAR-10 Confusion Matrix](results/cifar_confusion_matrix.png)
 
 ## Technologies Used
 - Python
